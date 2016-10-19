@@ -6,7 +6,7 @@
         {
             Program1.Program1 program1 = new Program1.Program1();
             program1.Run(args);
-//
+
 //            Program3.Program3 program3 = new Program3.Program3();
 //            program3.Run(args);
 
@@ -24,6 +24,12 @@
             
 //            Program8.Program8 program8 = new Program8.Program8();
 //            program8.Run(args);
+
+//            Program9.Program9 program9 = new Program9.Program9();
+//            program9.Run(args);
+
+//            Program10.Program10 program10 = new Program10.Program10();
+//            program10.Run(args);
         }
     }
 }
